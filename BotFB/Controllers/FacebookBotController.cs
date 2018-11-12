@@ -16,7 +16,7 @@ namespace BotFB.Controllers
 {
     public class FacebookBotController : Controller
     {
-        string _tokenPage = "EAAH7BvaJqLoBAOMDyiA52d3tjeq4y5Y8DbiGzZBdFsPZBlWZAPPIo1rdaORWV1EaOWQuIX7sJX0V7GRgP9pKAkVKPgLFC9xQpCOBtZC3u6jfuoezdZAjiZAchRiPS1DUZCzFMA340tD0dkSRA3HvNZBXUN5lYK7djXvGHAOFyX6xSPWIZAtv6ccuo";
+        string _tokenPage = "";
         // GET: FacebookBot
         public ActionResult Receive()
         {
